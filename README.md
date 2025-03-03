@@ -7,8 +7,9 @@ Make sure to make a System Restore point before using this script.
 * Windows 11 or Windows 10
 * *Recommended* Clean installation. Not required, but this might not work with other apps. This also won't work with other debloaters for obvious reasons.
 
-## With AtlasOS
-It is in an **unknown state** due to optimization with PowerShell, which may affect certain commands. It is also not recommended to use Debloatio on top of other debloaters as well. 
+> [!WARNING]
+> **On top of AtlasOS:**
+> It is in an **unknown state** due to optimization with PowerShell, which may affect certain commands. It is also not recommended to use Debloatio on top of other debloaters as well. 
 
 # WARNINGS – READ BEFORE USAGE!
 ## Summarized warnings
