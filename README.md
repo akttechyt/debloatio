@@ -5,7 +5,7 @@ Make sure to make a System Restore point before using this script.
 
 # Requirements
 * Windows 11 or Windows 10
-* *Recommended* Clean installation. Not required, but this might not work with other apps. This also won't work with other debloaters for obvious reasons.
+* *Recommended* Clean installation. Not required, but this might not work with other apps. This may not work on top of, or with other debloaters, for obvious reasons.
 
 > [!WARNING]
 > **On top of AtlasOS:**
