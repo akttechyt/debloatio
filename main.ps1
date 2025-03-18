@@ -24,6 +24,8 @@ function YesNoQuestions {
     } while ($true)
 }
 
+$host.ui.RawUI.WindowTitle = "Debloatio | v0.2.0"
+
 Write-Host "Debloatio (alpha) | v0.2.0 (Beta stage update)" -ForegroundColor Blue
 Write-Host "WARNING | This is alpha software, which means it is EXTREMELY UNSTABLE. Recommended for testing only on a VIRTUAL MACHINE or A PC WHICH YOU DON'T HAVE IMPORTANT DATA ON." -ForegroundColor Yellow
 Write-Host "WARNING | Creator or contributors are NOT RESPONSIBLE for ANY DAMAGE this causes to your PC." -ForegroundColor Yellow
